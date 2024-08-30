@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main
-      className={"container mx-auto my-3.5 w-10/12 rounded bg-gray-200 py-3.5"}
+      className={"container mx-auto my-3.5 w-full rounded bg-gray-200 py-3.5"}
     >
       <div className={"px-4 text-center"}>
         <h1 className={"mb-2 text-4xl"}>Hello world</h1>
